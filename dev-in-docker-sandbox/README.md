@@ -1,4 +1,4 @@
-# 🐳 dev-in-docker-sandbox
+# dev-in-docker-sandbox
 
 A high-performance, isolated development environment tailored for Fedora and optimized for the Antigravity Agent. Create reproducible sandboxes for multiple languages with a single command.
 
